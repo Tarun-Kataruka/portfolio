@@ -34,7 +34,7 @@ const Page = () => {
             </p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <a
-                href="/TarunKataruka.pdf"
+                href="/TarunKataruka_1DS22CS232.pdf"
                 download="TarunKataruka.pdf"
               >
                 <Button

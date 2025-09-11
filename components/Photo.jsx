@@ -24,12 +24,13 @@ const Photo = () => {
         >
           <div className="relative flex justify-center items-center">
             <Image
-              src="/images/profile.jpeg"
+              src="/images/portfolio.jpeg"
               width={498}
               height={498}
               priority
               quality={100}
               alt="Photo of me"
+              style={{ objectPosition: "50% 30%" }}
               className="rounded-full object-cover w-[298px] h-[298px] xl:w-[498px] xl:h-[498px]"
             />
           </div>

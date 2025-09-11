@@ -30,7 +30,7 @@ const Photo = () => {
               priority
               quality={100}
               alt="Photo of me"
-              style={{ objectPosition: "50% 30%" }}
+              style={{ objectPosition: "50% 20%" }}
               className="rounded-full object-cover w-[298px] h-[298px] xl:w-[498px] xl:h-[498px]"
             />
           </div>
